@@ -1,0 +1,13 @@
+.nav2{background-color:rgb(221, 150, 162);list-style-type:disc;text-align: center;padding: auto;}
+.nav2 li{font-size: large;padding:15px;text-align:centre;display:inline-block}
+.bob{background-color: seashell  ;}
+.rag{background-color:rgb(196, 38, 91);}
+.jas{background-color:wheat;}
+.pgp{background-color:rgb(238, 184, 238)}
+.myn{background-color: darkseagreen;}
+#med{color:rgb(163, 97, 39);text-align: center;}
+#ff{align-items: center;}
+#rt{background-color: skyblue;}
+.eff{color: teal;}
+#oo{display: flex;justify-content: center;align-items: center;}
+.ass{background-color: thistle;}
